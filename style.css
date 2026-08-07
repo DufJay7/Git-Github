@@ -104,3 +104,55 @@ button:active {
     flex-direction: column;
     gap: 10px;
 }
+
+/* Estilos para os itens da lista de tarefas */
+.task-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1e293b;
+    padding: 12px 15px;
+    border-radius: 6px;
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+}
+
+.task-item.completed span {
+    text-decoration: line-through;
+    color: #64748b;
+}
+
+.task-actions {
+    display: flex;
+    gap: 8px;
+}
+
+.btn-action {
+    padding: 6px 12px;
+    border: none;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    color: white;
+}
+
+.btn-check { background-color: var(--success-color); }
+.btn-check:hover { filter: brightness(1.2); }
+
+.btn-edit { background-color: #e2e8f0; color: #1e293b; }
+.btn-edit:hover { background-color: #cbd5e1; }
+
+.btn-delete { background-color: var(--danger-color); }
+.btn-delete:hover { background-color: var(--danger-hover); }
+
+p {
+    color: var(--text-color);
+    margin-bottom: 10px;
+}
+
+#total-count {
+    font-weight: bold;
+    color: var (--accent-color)"
+}

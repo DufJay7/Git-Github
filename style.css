@@ -138,14 +138,30 @@ button:active {
     color: white;
 }
 
-.btn-check { background-color: var(--success-color); }
-.btn-check:hover { filter: brightness(1.2); }
+.btn-check { 
+    background-color: var(--success-color); 
+}
 
-.btn-edit { background-color: #e2e8f0; color: #1e293b; }
-.btn-edit:hover { background-color: #cbd5e1; }
+.btn-check:hover { 
+    filter: brightness(1.2); 
+}
 
-.btn-delete { background-color: var(--danger-color); }
-.btn-delete:hover { background-color: var(--danger-hover); }
+.btn-edit { 
+    background-color: #e2e8f0; 
+    color: #1e293b; 
+}
+
+.btn-edit:hover { 
+    background-color: #cbd5e1;
+ }
+
+.btn-delete { 
+    background-color: var(--danger-color); 
+}
+
+.btn-delete:hover { 
+    background-color: var(--danger-hover); 
+}
 
 p {
     color: var(--text-color);
@@ -154,5 +170,5 @@ p {
 
 #total-count {
     font-weight: bold;
-    color: var (--accent-color)"
+    color: var (--accent-color);
 }

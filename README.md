@@ -2,7 +2,7 @@ Projeto feito no curso do SENAI, de <b>"Técnico em Desenvolvimento de Sistemas"
 
 <b>Layout do projeto</b>
 
-<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/10cb651a-7f40-4f43-a0dd-e56a800fb275" />
+<img width="600" height="446" alt="image" src="https://github.com/user-attachments/assets/192e7fd3-c1ca-418c-9c61-e63282085130" />
 
   No processo de criação do sistema, usamos apenas HTML 5, CSS 3 e JAVASCRIPT.
   
@@ -24,8 +24,6 @@ Projeto feito no curso do SENAI, de <b>"Técnico em Desenvolvimento de Sistemas"
   
   <img width="2526" height="3066" alt="image" src="https://github.com/user-attachments/assets/eb62a668-8b7b-4a88-af05-3856114ca21e" />
 
-  Daqui para frente, vou trabalhar para adicionar funcionalidades como: cadastrar, excluir, editar etc.
-  Para demonstrar a evolução dos meus conhecimentos adquiridos no decorre da minha formação.
 
 
 
